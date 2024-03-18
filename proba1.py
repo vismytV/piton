@@ -62,5 +62,5 @@ result=user.find_one({"name":"jshgdfjsjdf"}) #Поиск одного участ
 # user.update_one({"age":25},{"$set":{"age":31}}) #замена
 # user.update_one({"name":"GOPA"},{"$set":{"famili":"noga"}}) #замена (если нет 'famili' - добавит)
 # user.update_one({"name":"GOPA"},{"$set":{"famili":"GOPA", "age": "310"}}) #замена
-
+#сделано в ветке development<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<del
 print(100)
